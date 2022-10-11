@@ -1,0 +1,12 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+
+*.idea
+dist
+package-lock.json
+yarn.lock
+tails-1658246878.html
